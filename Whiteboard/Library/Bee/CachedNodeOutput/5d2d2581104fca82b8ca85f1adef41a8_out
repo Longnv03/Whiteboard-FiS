@@ -1,0 +1,7 @@
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Enterprise\Sample\VirtualDisplay\VirtualDisplayDemo.cs(11,20): warning CS0108: 'VirtualDisplayDemo.tag' hides inherited member 'Component.tag'. Use the new keyword if hiding was intended.
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Enterprise\Sample\VirtualDisplay\VirtualDisplayEvent.cs(13,19): warning CS0108: 'VirtualDisplayEvent.tag' hides inherited member 'Component.tag'. Use the new keyword if hiding was intended.
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Enterprise\Scripts\Plugin\PXR_EnterpriseTools.cs(28,32): warning CS0618: 'Object.FindObjectOfType<T>()' is obsolete: 'Object.FindObjectOfType has been deprecated. Use Object.FindFirstObjectByType instead or if finding any instance is acceptable the faster Object.FindAnyObjectByType'
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs(1651,17): warning CS0219: The variable 'sensorFrameIndex' is assigned but its value is never used
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs(2247,22): warning CS0219: The variable 'value' is assigned but its value is never used
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Enterprise\Scripts\Plugin\PXR_EnterprisePlugin.cs(2291,20): warning CS0219: The variable 'value' is assigned but its value is never used
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Enterprise\Sample\VirtualDisplay\VirtualDisplayDemo.cs(14,18): warning CS0414: The field 'VirtualDisplayDemo.isBind' is assigned but its value is never used

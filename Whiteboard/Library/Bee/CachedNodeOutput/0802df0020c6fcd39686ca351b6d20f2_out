@@ -1,0 +1,4 @@
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Editor\PXR_BuildProcessor.cs(81,126): warning CS0618: 'GraphicsDeviceType.OpenGLES2' is obsolete: 'OpenGL ES 2.0 is no longer supported in Unity 2023.1'
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Editor\PXR_BuildProcessor.cs(83,128): warning CS0618: 'GraphicsDeviceType.OpenGLES2' is obsolete: 'OpenGL ES 2.0 is no longer supported in Unity 2023.1'
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Editor\ProjectValidation\PXR_ProjectValidationRecommend.cs(246,32): warning CS0618: 'PlayerSettings.GetMobileMTRendering(BuildTargetGroup)' is obsolete: 'Use GetMobileMTRendering(NamedBuildTarget buildTarget) instead'
+C:\Users\ACER\OneDrive\Desktop\PICO SDK\Editor\ProjectValidation\PXR_ProjectValidationRecommend.cs(251,25): warning CS0618: 'PlayerSettings.SetMobileMTRendering(BuildTargetGroup, bool)' is obsolete: 'Use SetMobileMTRendering(NamedBuildTarget buildTarget, bool enable) instead'
